@@ -1,3 +1,3 @@
 # GA-Strings_of_1
-Genetic Algorithm example
+Genetic Algorithm example \n
 This is a very simple example of optimising strings of one
